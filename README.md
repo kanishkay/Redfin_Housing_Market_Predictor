@@ -17,8 +17,6 @@ This project implements a complete machine learning pipeline that processes **50
 ---
 ## 🚀 Quick Start
 
-### Prerequisites
-
 ```bash
 # Install required packages
 pip install pandas numpy scikit-learn matplotlib seaborn
